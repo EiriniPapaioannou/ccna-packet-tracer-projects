@@ -26,4 +26,4 @@ A collection of practical networking labs completed using Cisco Packet Tracer as
 
 ## File Types
 - `.docx`: Project instructions and topology documentation
-- `.pkt` Cisco Packet Tracer simulation files
+- `.pka` Cisco Packet Tracer simulation files
